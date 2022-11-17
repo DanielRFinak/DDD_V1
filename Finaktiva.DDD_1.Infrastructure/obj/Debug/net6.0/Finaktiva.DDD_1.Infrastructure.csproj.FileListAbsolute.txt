@@ -1,0 +1,15 @@
+C:\Users\Julian Arcila\source\repos\Finaktiva.DDD_1\Finaktiva.DDD_1.Infrastructure\bin\Debug\net6.0\Finaktiva.DDD_1.Infrastructure.deps.json
+C:\Users\Julian Arcila\source\repos\Finaktiva.DDD_1\Finaktiva.DDD_1.Infrastructure\bin\Debug\net6.0\Finaktiva.DDD_1.Infrastructure.dll
+C:\Users\Julian Arcila\source\repos\Finaktiva.DDD_1\Finaktiva.DDD_1.Infrastructure\bin\Debug\net6.0\Finaktiva.DDD_1.Infrastructure.pdb
+C:\Users\Julian Arcila\source\repos\Finaktiva.DDD_1\Finaktiva.DDD_1.Infrastructure\bin\Debug\net6.0\Finaktiva.DDD_1.Domain.dll
+C:\Users\Julian Arcila\source\repos\Finaktiva.DDD_1\Finaktiva.DDD_1.Infrastructure\bin\Debug\net6.0\Finaktiva.DDD_1.Domain.pdb
+C:\Users\Julian Arcila\source\repos\Finaktiva.DDD_1\Finaktiva.DDD_1.Infrastructure\obj\Debug\net6.0\Finaktiva.DDD_1.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Julian Arcila\source\repos\Finaktiva.DDD_1\Finaktiva.DDD_1.Infrastructure\obj\Debug\net6.0\Finaktiva.DDD_1.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julian Arcila\source\repos\Finaktiva.DDD_1\Finaktiva.DDD_1.Infrastructure\obj\Debug\net6.0\Finaktiva.DDD_1.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Julian Arcila\source\repos\Finaktiva.DDD_1\Finaktiva.DDD_1.Infrastructure\obj\Debug\net6.0\Finaktiva.DDD_1.Infrastructure.AssemblyInfo.cs
+C:\Users\Julian Arcila\source\repos\Finaktiva.DDD_1\Finaktiva.DDD_1.Infrastructure\obj\Debug\net6.0\Finaktiva.DDD_1.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Julian Arcila\source\repos\Finaktiva.DDD_1\Finaktiva.DDD_1.Infrastructure\obj\Debug\net6.0\Finaktiva.DDD_1.Infrastructure.csproj.CopyComplete
+C:\Users\Julian Arcila\source\repos\Finaktiva.DDD_1\Finaktiva.DDD_1.Infrastructure\obj\Debug\net6.0\Finaktiva.DDD_1.Infrastructure.dll
+C:\Users\Julian Arcila\source\repos\Finaktiva.DDD_1\Finaktiva.DDD_1.Infrastructure\obj\Debug\net6.0\refint\Finaktiva.DDD_1.Infrastructure.dll
+C:\Users\Julian Arcila\source\repos\Finaktiva.DDD_1\Finaktiva.DDD_1.Infrastructure\obj\Debug\net6.0\Finaktiva.DDD_1.Infrastructure.pdb
+C:\Users\Julian Arcila\source\repos\Finaktiva.DDD_1\Finaktiva.DDD_1.Infrastructure\obj\Debug\net6.0\ref\Finaktiva.DDD_1.Infrastructure.dll
