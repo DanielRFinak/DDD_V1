@@ -42,5 +42,13 @@ Infrastructure
 	
 #### Domain: Contiene los modelos del dominio o logica de negocio. Representa las abstracciones de las entidades del negocio, por ejemplo: clientes, proveedores, productos, facturas etc.
 
+	Entities: Representa una abstracion de un objeto real, el cual debe contenir un ID, por lo tanto cada entidad debe ser unica.
+	
+	ValueObjects: Son objetos inmutables los cuales definen las caracteristicas de un objeto entidad creado.
+	
+	Repositories: Representa la abstraccion de los repositorios de datos externos, por ejemplo los metodos CRUD para una entidad, dentro de dominio estos solo son interfaces.
+	
+#### Infrastructure: 
+	
 	
 	
