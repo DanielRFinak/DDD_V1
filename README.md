@@ -29,4 +29,18 @@ Infrastructure
 
 ### Contexto SERVICIOS
 
-API: Exposicion del dominio
+#### API: Exposicion del dominio
+
+	AplicationServices: Implementara los Handle de cada uno de los comandos creados.
+	
+	Commands: Similar a un DTO, pero llamado comando el cual seteara las variables al inicializar el objeto y sera inmutable, son utlizados por los handlers
+	y por el controller API.
+	
+	Controllers: Expone los EndPoints creados por los metodos GET, POST, PUT, PATH etc. Hace uso de los handlers. Por cada endpoint se implementara un nuevo handler.
+	
+	Queries: Realiza peticiones a datos externos por ejemplo: otras APIs, bases de datos etc. Se apoya en la capa de Infrastructure.
+	
+#### Domain: Contiene los modelos del dominio o logica de negocio. Representa las abstracciones de las entidades del negocio, por ejemplo: clientes, proveedores, productos, facturas etc.
+
+	
+	
