@@ -3,8 +3,20 @@
 Domain Driven Design (DDD) es una práctica de desarrollo de software que pone el foco en el Dominio del Negocio como faro del proyecto 
 y en su Modelo como herramienta de comunicación entre negocio y tecnología.
 
-Este proyecto es una base conceptual para implementar un API Services con DDD en .NET Core.
+Para lograr una comunicacion efectiva entre NEGOCIO y TECNOLOGÍA se utiliza el lenguaje Ubiquo
 
+## Lenguaje Ubiquo
+
+Es una colección de términos y definiciones utilizadas por todo el equipo tanto equipos técnico como no técnico, para lograr esto dentro del desarrollo del dominio se utilizara
+terminología del negocio y no terminología técnica, de forma que ambos equipos puedan guiar el desarrollo del software, bajo un entendimiento real de lo que ocurre en el negocio.
+
+Para esto utilizaremos terminología real del negocio incluso para nombrar métodos o funciones dentro del código, por ejemplo: Si necesitamos crear un método para realizar suscripciones mensuales de un cliente, normalmente lo llamaríamos:
+
+	CreateSuscription (Esto seria un error ya que no describe de forma no técnica lo que realiza el método)
+
+	ClientSignupMonthlySubscription (Este nombre describe exactamente lo que realizara el método de forma que alguien no técnico puede entenderlo)
+
+Este proyecto es una base conceptual para implementar un API Services con DDD en .NET Core.
 
 ## Estructura de carpetas
 
