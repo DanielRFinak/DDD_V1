@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Finaktiva.DDD_1.API.props" />
-</Project>
