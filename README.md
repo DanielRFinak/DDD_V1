@@ -8,21 +8,21 @@ Este proyecto es una base conceptual para implementar un API Services con DDD en
 
 ## Estructura de carpetas
 
-API
-	Finaktiva.DDD_1.API
-		AplicationServices
-		Commands
-		Controllers
-		Queries
++API
++Finaktiva.DDD_1.API
++AplicationServices
++Commands
++Controllers
++Queries
 
-Domain
-	Finaktiva.DDD_1.Domain
-		Entities
-		Repositories
-		ValueObjects
++Domain
++Finaktiva.DDD_1.Domain
++Entities
++Repositories
++ValueObjects
 	
-Infrastructure
-	Finaktiva.DDD_1.Infrastructure
++Infrastructure
++Finaktiva.DDD_1.Infrastructure
 	
 	
 ## Explicación de estructura
