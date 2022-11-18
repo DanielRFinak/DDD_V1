@@ -60,7 +60,7 @@ Este proyecto es una base conceptual para implementar un API Services con DDD en
 
 	Controllers: Expone los EndPoints creados por los métodos GET, POST, PUT, PATH etc. Hace uso de los handlers. Por cada endpoint se implementara un nuevo handler.
 
-	Queries: Realiza peticiones a datos externos por ejemplo: otras APIs, bases de datos etc. Se apoya en la capa de Infrastructure.
+	Queries: Realiza peticiones de LECTURA a datos externos por ejemplo: otras APIs, bases de datos etc. Se apoya en la capa de Infrastructure.
 
 ### Contexto DOMINIO
 	

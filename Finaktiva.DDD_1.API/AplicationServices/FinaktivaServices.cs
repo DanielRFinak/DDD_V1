@@ -17,6 +17,11 @@ namespace Finaktiva.DDD_1.API.AplicationServices
             this.personQueries = personQueries;
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="createPerson"></param>
+        /// <returns></returns>
         public async Task HandleCommand(CreatePersonCommand createPerson)
         {
             var person = new Person(PersonId.Create(createPerson.personId));
@@ -24,6 +29,11 @@ namespace Finaktiva.DDD_1.API.AplicationServices
             await repository.AddPerson(person);
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
         public async Task<Person> GetPerson(Guid id)
         {
             return await personQueries.GetPersonByIdAsync(id);
