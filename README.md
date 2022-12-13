@@ -16,7 +16,7 @@ Para esto utilizaremos terminología real del negocio incluso para nombrar méto
 
 	ClientSignupMonthlySubscription (Este nombre describe exactamente lo que realizara el método de forma que alguien no técnico puede entenderlo)
 
-Este proyecto es una base conceptual para implementar un API Services con DDD en .NET Core.
+Este proyecto es una base conceptual y practica para implementar un API Services con DDD en .NET Core.
 
 ## Estructura de carpetas
 
